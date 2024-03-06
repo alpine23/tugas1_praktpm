@@ -71,7 +71,6 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             ),
             SizedBox(height: 20.0),
-            // Login Button
             ElevatedButton(
               onPressed: () {},
               child: Text('Login'),
